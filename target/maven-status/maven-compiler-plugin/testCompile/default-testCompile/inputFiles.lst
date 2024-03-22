@@ -1,2 +1,10 @@
-D:\Workspace\TW-Assignment\src\test\java\test\CreateWalletTest.java
+D:\Workspace\TW-Assignment\src\test\java\page\CreateWalletFacade.java
+D:\Workspace\TW-Assignment\src\test\java\page\BackUpPage.java
+D:\Workspace\TW-Assignment\src\test\java\page\BasePage.java
+D:\Workspace\TW-Assignment\src\test\java\page\PasscodePage.java
+D:\Workspace\TW-Assignment\src\test\java\test\Create1stWalletTest.java
+D:\Workspace\TW-Assignment\src\test\java\page\HomePage.java
+D:\Workspace\TW-Assignment\src\test\java\page\GetStartedPage.java
+D:\Workspace\TW-Assignment\src\test\java\page\ListWalletsPage.java
 D:\Workspace\TW-Assignment\src\test\java\test\BaseTest.java
+D:\Workspace\TW-Assignment\src\test\java\test\Create2ndWalletTest.java

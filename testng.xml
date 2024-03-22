@@ -1,9 +1,10 @@
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
-<suite name="SampleMobileAutomation">
+<suite name="CreateWalletTest">
     <test name="Test">
         <parameter name="platformName" value="Android"/>
         <classes>
-            <class name="tests.SampleTest"/>
+            <class name="test.Create1stWalletTest"/>
+            <class name="test.Create2ndWalletTest"/>
         </classes>
     </test>
 </suite>
